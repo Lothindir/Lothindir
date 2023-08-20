@@ -10,18 +10,44 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=lothindir&style=flat-square&color=blue" alt=""/>
   <h1>
-    Welcome!
+    Welcome to my Github page!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
+<!--<div align="center">
+  <img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="400px"/>
+</div>-->
 
+### :man_technologist: About Me :
+
+I am a Cybersecurity Engineer :closed_lock_with_key: from Switzerland. I graduated from the [School of Engineering and Management of Vaud](https://heig-vd.ch/en) with a Bachelor's degree in Cybersecurity.
+
+### :bulb: My Interests :
+- 🔎 Forensics
+- 🕵️ Penetration testing
+- 👁️ OSINT
+- 🖥️ Web developpement
+- 🥾 Hiking (especially in the mountains)
+- 🏕️ Camping
+- 📚 Learning new stuff
+
+---
+
+### My Stats :
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lothindir" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20" />
+</div>  
 <!--
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lothindir)](https://git.io/streak-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 **Lothindir/Lothindir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
