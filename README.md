@@ -34,31 +34,102 @@ I am a Cybersecurity Engineer :closed_lock_with_key: from Switzerland. I graduat
 
 ---
 
+### Some Projects :
+<div display="flex" align="center">
+  <a href="https://github.com/cheers-li/cheers-li-app" align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=cheers-li&repo=cheers-li-app&theme=dark&show_owner=true"
+        media="(prefers-color-scheme : dark)"
+        />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=cheers-li&repo=cheers-li-app&show_owner=true"
+        media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+        />
+      <img />
+    </picture>
+  </a>
+  <a href="https://github.com/FIN-18-20/RubiksMind" align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=fin-18-20&repo=rubiksmind&theme=dark"
+        media="(prefers-color-scheme : dark)"
+        />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=fin-18-20&repo=rubiksmind"
+        media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+        />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fin-18-20&repo=rubiksmind"/>
+    </picture>
+  </a>
+</br>
+  <a href="https://github.com/Lothindir/Stellarium" align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=stellarium&theme=dark"
+        media="(prefers-color-scheme : dark)"
+        />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=stellarium"
+        media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+        />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=stellarium" />
+    </picture>
+  </a>
+  <a href="https://github.com/Lothindir/ThemePacker" align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=themepacker&theme=dark"
+        media="(prefers-color-scheme : dark)"
+        />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=themepacker"
+        media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+        />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=themepacker" />
+    </picture>
+  </a>
+  
+  
+</div>
+
+---
+
 ### My Stats :
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true" />
+<div display="flex" align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true&theme=dark"
+      media="(prefers-color-scheme : dark)"
+      />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true"
+      media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+      />
+    <img />
+  </picture>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=lothindir" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20" />
-</div>  
-<!--
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lothindir&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lothindir)](https://git.io/streak-stats)
-
-
-**Lothindir/Lothindir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=lothindir&theme=dark"
+      media="(prefers-color-scheme : dark)"
+      />
+    <source
+      srcset="https://streak-stats.demolab.com?user=lothindir"
+      media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+      />
+    <img />
+  </picture>
+</br>
+  <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20&theme=dark"
+        media="(prefers-color-scheme : dark)"
+        />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lothindir&layout=compact&langs_count=20"
+        media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+        />
+      <img />
+    </picture>
+</div>
