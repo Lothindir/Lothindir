@@ -63,6 +63,19 @@ I am a Cybersecurity Engineer :closed_lock_with_key: from Switzerland. I graduat
     </picture>
   </a>
 </br>
+  <a href="https://github.com/Lothindir/xSqueezeIt" align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=xsqueezeit&theme=dark"
+        media="(prefers-color-scheme : dark)"
+        />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=xsqueezeit"
+        media="(prefers-color-scheme : light), (prefers-color-scheme : no-preference)"
+        />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=xsqueezeit" />
+    </picture>
+  </a>
   <a href="https://github.com/Lothindir/Stellarium" align="center">
     <picture>
       <source
@@ -76,6 +89,7 @@ I am a Cybersecurity Engineer :closed_lock_with_key: from Switzerland. I graduat
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lothindir&repo=stellarium" />
     </picture>
   </a>
+</br>
   <a href="https://github.com/Lothindir/ThemePacker" align="center">
     <picture>
       <source
