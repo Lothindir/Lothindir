@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Cybersecurity Engineer :closed_lock_with_key: from Switzerland. I graduated from the [School of Engineering and Management of Vaud](https://heig-vd.ch/en) with a Bachelor's degree in Cybersecurity.
+I am a Cybersecurity Engineer :closed_lock_with_key: from Switzerland. I graduated from the [School of Engineering and Management of Vaud](https://heig-vd.ch/en) with a Bachelor's degree in Cybersecurity. Currently working as a Cybersecurity Engineer at <a href="https://www.stadlerrail.com/en/signalling/">Stadler Signalling AG</a>.
 
 ### :bulb: My Interests :
 - 🔎 Forensics
